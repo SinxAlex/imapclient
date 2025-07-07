@@ -1,7 +1,7 @@
 <?php
 namespace  imapClient;
-/*use yii\base\Component;
-use yii\base\InvalidConfigException;*/
+use yii\base\Component;
+use yii\base\InvalidConfigException;
 
 class ImapClient extends Component
 {
