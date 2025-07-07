@@ -1,0 +1,19 @@
+{
+  "name": "sinxalex/imapclient",
+  "description": "description",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "sinxAlex",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "imapClient\\": "src/"
+    }
+  },
+  "require": {
+  }
+}
