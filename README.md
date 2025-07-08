@@ -34,12 +34,6 @@
  ```
 
 
-## Example for downloading attachments:
-```php
-    $imap=new \imapClient\ImapClient();
-    $imap->format_attachment='pdf';
-    $imap->downloadAttachments();
- ```
 
 ## Example for getting emails information:
 
